@@ -1,0 +1,19 @@
+{
+  "name": "nested-parentheses",
+  "version": "1.0.0",
+  "description": "test task",
+  "main": "check.nesting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenchevskii/nested-parentheses.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lenchevskii/nested-parentheses/issues"
+  },
+  "homepage": "https://github.com/lenchevskii/nested-parentheses#readme"
+}
