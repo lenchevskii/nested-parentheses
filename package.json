@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lenchevskii/nested-parentheses/issues"
   },
-  "homepage": "https://github.com/lenchevskii/nested-parentheses#readme"
+  "homepage": "https://github.com/lenchevskii/nested-parentheses#readme",
+  "dependencies": {
+    "monet": "^0.9.3"
+  }
 }
